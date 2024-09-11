@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seán</h1>
-<h3 align="center">An Electronic & Computer Engineer from Ireland</h3>
+<h1 align="left">Hi 👋, I'm Seán</h1>
+<h3 align="left">An Electronic & Computer Engineer from Ireland</h3>
 
 - 🔭 I am currently working on: [Logicademy](https://github.com/Logicademy), [Grand Star (rust-wii)](https://github.com/rust-wii/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **crash@override.online**
 
-- ⚡ Fun fact **I got Rust running on the Nintendo Wii**
+- ⚡ Fun fact: **I got Rust running on the Nintendo Wii**
 
 <!-- Connection badges (Twitter, LinkedIn) -->
 <h3 align="left">Connect with me:</h3>
@@ -28,8 +28,9 @@
 
 </p>
 
-<!-- GitHub Top Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxorinator&show_icons=true&locale=en&layout=compact" alt="daxorinator" /></p>
-
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daxorinator&show_icons=true&locale=en" alt="daxorinator" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daxorinator&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&locale=en" alt="daxorinator" /></p>
+
+
+<!-- GitHub Top Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxorinator&show_icons=true&locale=en&layout=compact&theme=dracula" alt="daxorinator" /></p>
