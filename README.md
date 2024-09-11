@@ -23,7 +23,7 @@
 <!-- Language and Tooling badges -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    ![My Skills](https://skillicons.dev/icons?i=python,java,arduino,html,css,tailwind,svelte,git,githubactions,docker,kubernetes,grafana,prometheus,linux,nginx,mysql,postgres,redis)(https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,java,arduino,html,css,tailwind,svelte,git,githubactions,docker,kubernetes,grafana,prometheus,linux,nginx,mysql,postgres,redis)](https://skillicons.dev)
 </p>
 
 <!-- GitHub Top Languages -->
