@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seán</h1>
 <h3 align="center">An Electronic & Computer Engineer from Ireland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxorinator" alt="daxorinator" /></a> </p>
-
 - 🔭 I am currently working on: [Logicademy](https://github.com/Logicademy), [Grand Star (rust-wii)](https://github.com/rust-wii/)
 
 - 👔 I am currently working for: [Grafton Digital](https://github.com/Grafton-Digital)
