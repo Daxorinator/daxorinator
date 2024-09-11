@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Seán</h1>
-<h3 align="left">An Electronic & Computer Engineer from Ireland</h3>
+<h3 align="left">An Electronic & Computer Engineer from Galway, Ireland</h3>
 
 - 🔭 I am currently working on: [Logicademy](https://github.com/Logicademy), [Grand Star (rust-wii)](https://github.com/rust-wii/)
+
+- 🎓 I am currently studying: Electronic & Computer Engineering (BE. + ME.) @ University of Galway, Ireland
 
 - 👔 I am currently working for: [Grafton Digital](https://github.com/Grafton-Digital)
 
@@ -16,8 +18,8 @@
 <!-- Connection badges (Twitter, LinkedIn) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/daxorinator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daxorinator" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daxorinator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxorinator" height="30" width="40" /></a>
+<a href="https://twitter.com/daxorinator" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="daxorinator"/></a>
+<a href="https://linkedin.com/in/daxorinator" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daxorinator"/></a>
 </p>
 
 <!-- Language and Tooling badges -->
