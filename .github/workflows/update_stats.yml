@@ -21,15 +21,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&locale=en
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook,css
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=dracula&hide=jupyter%20notebook,css
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       # - name: Generate pin card
       #   uses: readme-tools/github-readme-stats-action@v1
