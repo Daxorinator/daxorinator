@@ -32,10 +32,7 @@
 
 <p>
 
-<!-- GitHub Stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=daxorinator&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&locale=en" alt="daxorinator" />
-
-<!-- GitHub Top Languages -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxorinator&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook,css" alt="daxorinator" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </p>
