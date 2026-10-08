@@ -32,7 +32,8 @@
 
 <p>
 
-![Stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Daxorinator&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Daxorinator&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula)
+
 ![Top Languages](./profile/top-langs.svg)
 
 </p>
