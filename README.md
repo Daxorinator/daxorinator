@@ -3,11 +3,11 @@
 
 - 🔭 I am currently working on: [Logicademy](https://github.com/Logicademy), [Grand Star (rust-wii)](https://github.com/rust-wii/)
 
-- 🎓 I am currently studying: Electronic & Computer Engineering (BE. + ME.) @ University of Galway, Ireland
+- 👔 I am currently working for: Nobody!
 
-- 👔 I am currently working for: [Grafton Digital](https://github.com/Grafton-Digital)
+- 🎓 I graduated from: Electronic & Computer Engineering (BE. + ME.) @ University of Galway, Ireland (May 2026)
 
-- 🌱 I am currently learning: **SoC Design / Python / Rust / Homebrew Computing**
+- 🌱 I am currently learning: **SoC Design and FPGAs / PLCs / Rust / Homebrew Computing**
 
 - 💬 Ask me about: **Embedded Systems, Homebrew Computers, Game Dev**
 
@@ -18,15 +18,15 @@
 <!-- Connection badges (Twitter, LinkedIn) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/daxorinator" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="daxorinator"/></a>
-<a href="https://linkedin.com/in/daxorinator" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daxorinator"/></a>
+<a href="https://bsky.app/profile/daxorinator.bsky.social" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="BlueSky"/></a>
+<a href="https://linkedin.com/in/daxorinator" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
 
 <!-- Language and Tooling badges -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-![My Skills](https://skillicons.dev/icons?i=python,java,arduino,html,css,tailwind,svelte,git,githubactions,docker,kubernetes,grafana,prometheus,linux,nginx,mysql,postgres,redis&perline=9)
+![My Skills](https://skillicons.dev/icons?i=python,java,arduino,html,css,tailwind,git,githubactions,docker,kubernetes,grafana,prometheus,linux,nginx,mysql,postgres,redis,debian,fastapi,htmx,latex,opencv,terraform,wordpress&perline=12)
 
 </p>
 
